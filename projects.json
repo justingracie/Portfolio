@@ -1,0 +1,14 @@
+[
+    {
+      "name": "project1-Game of War",
+      "live": "https://justingracie.github.io/Card-Game-War---JG/",
+      "git": "https://github.com/justingracie/Card-Game-War---JG",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "project2",
+      "live": "https://mighty-springs-41330.herokuapp.com/catalog",
+      "git": "https://github.com/justingracie/Project-2---Collection-Cataloger",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
